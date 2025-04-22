@@ -6,7 +6,7 @@
 [github for mcq](https://github.com/sunnysavita10/MCQGenerator) @sunnysavita10<br>
 [github for medicalbot](https://github.com/entbappy/End-to-end-Medical-Chatbot-using-Llama2) @entbappy
 
-## Content of Course
+## Contents of Course
 
 - (00:00:00) DAY01-Introduction to Generative AI Community Course
 - (01:44:14) DAY02-Introduction to OpenAI and understanding the OpenAI API
