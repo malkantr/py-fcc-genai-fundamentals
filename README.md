@@ -3,8 +3,8 @@
 [youtube](https://youtu.be/mEsleV16qdo?si=7P1cFOXIqEC54oOb)
 
 
-[github for mcq](https://github.com/sunnysavita10/MCQGenerator) @sunnysavita10<br>
-[github for medicalbot](https://github.com/entbappy/End-to-end-Medical-Chatbot-using-Llama2) @entbappy
+[original github source for mcq](https://github.com/sunnysavita10/MCQGenerator) @sunnysavita10<br>
+[original github source for medicalbot](https://github.com/entbappy/End-to-end-Medical-Chatbot-using-Llama2) @entbappy
 
 ## Contents of Course
 
